@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 373: Line is followed by a block, despite not being a menu choice. Did you forget a colon at the end of the line?
+    "The day we pranked her."
+                             ^
+
+Ren'Py Version: Ren'Py 8.3.7.25031702
+Fri Jul 11 22:29:38 2025
